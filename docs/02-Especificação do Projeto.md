@@ -156,7 +156,18 @@ A matriz de rastreabilidade é uma ferramenta usada para facilitar a visualizaç
 
 A matriz deve contemplar todos os elementos relevantes que fazem parte do sistema, conforme a figura meramente ilustrativa apresentada a seguir.
 
-![Exemplo de matriz de rastreabilidade](img/02-matriz-rastreabilidade.png)
+|  | RF-001 | RF-002 | RF-003 | RF-004 | RF-005 | RF-006 | RF-007 | RF-008 | RF-009 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| RF-001 | x | x | x | x | x | x | x | x | x |
+| RF-002 | x |  |  |  |  |  |  |  |  |
+| RF-003 | x |  |  |  |  |  |  |  |  |
+| RF-004 | x |  |  |  |  |  |  |  |  |
+| RF-005 | x |  |  |  |  |  |  |  |  |
+| RF-006 | x |  |  |  |  |  |  |  |  |
+| RF-007 | x |  |  |  |  |  |  |  |  |
+| RF-008   | x |  |  |  |  |  |  |  |  |
+| RF-009 | x |  |  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  |  |
 
 > **Links Úteis**:
 > - [Artigo Engenharia de Software 13 - Rastreabilidade](https://www.devmedia.com.br/artigo-engenharia-de-software-13-rastreabilidade/12822/)
