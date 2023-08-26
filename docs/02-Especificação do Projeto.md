@@ -43,15 +43,31 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 
 ## Modelagem do Processo de Negócio 
 
-### Análise da Situação Atual
+## Análise da Situação Atual e Proposta de Solução
 
-Apresente aqui os problemas existentes que viabilizam sua proposta. Apresente o modelo do sistema como ele funciona hoje. Caso sua proposta seja inovadora e não existam processos claramente definidos, apresente como as tarefas que o seu sistema pretende implementar são executadas atualmente, mesmo que não se utilize tecnologia computacional. 
+Atualmente, os agendamentos para os diversos profissionais abordados, como Carla Soares, proprietária de um salão de beleza, Lucas Silva, personal trainer autônomo, Isabela Rodrigues, cliente com uma agenda ocupada, Rafael Almeida, gerente de restaurante, e André Oliveira, empresário de entregas, são conduzidos manualmente através de comunicações por telefone ou presencialmente. Essa abordagem consome considerável tempo e esforço tanto para os profissionais quanto para seus clientes, resultando em ineficiências e desgastes desnecessários.
 
-### Descrição Geral da Proposta
+A solução proposta, o **AgendeJá**, visa resolver esses desafios ao introduzir um sistema automatizado e dinâmico de agendamento. Ao adotar essa solução, os seguintes benefícios serão alcançados:
 
-Apresente aqui uma descrição da sua proposta abordando seus limites e suas ligações com as estratégias e objetivos do negócio. Apresente aqui as oportunidades de melhorias.
+1. **Agilização do Agendamento:** O AgendeJá eliminará a necessidade de agendamentos manuais via telefone ou pessoalmente. Os profissionais, como Carla, Lucas, Rafael e André, poderão gerenciar suas agendas de forma eficiente através da plataforma, economizando tempo precioso.
 
+2. **Facilitação para Clientes:** Clientes, como Isabela, terão acesso a uma plataforma intuitiva que lhes permitirá agendar compromissos de maneira rápida e conveniente, evitando a espera em filas de telefone e permitindo uma visão clara das disponibilidades.
+
+3. **Personalização e Informações Detalhadas:** O aplicativo fornecerá uma página personalizada para profissionais, como Carla e Gabriel, onde eles poderão exibir detalhes de seus serviços, preços e horários disponíveis. Isso permite uma experiência mais informativa para os clientes.
+
+4. **Notificações e Lembretes Automatizados:** O sistema enviará lembretes e notificações automáticas aos clientes, como Isabela, para ajudá-los a lembrar de compromissos agendados. Isso reduzirá as chances de esquecimentos e atrasos.
+
+5. **Sincronização e Acesso Multiplataforma:** A sincronização automática entre dispositivos permitirá que os profissionais, como André, gerenciem suas agendas de qualquer lugar. A compatibilidade multiplataforma também garante que clientes de diferentes sistemas operacionais possam acessar o serviço.
+
+6. **Pagamentos Antecipados:** O AgendeJá oferecerá a funcionalidade de receber pagamentos antecipados, algo que Carla, Lucas e Gabriel valorizam. Isso ajudará a minimizar as faltas de última hora e garantir a receita esperada.
+
+7. **Feedback e Avaliações:** Profissionais, como Lucas e Rafael, terão a oportunidade de receber feedback e avaliações dos clientes. Isso permitirá melhorias contínuas nos serviços e o fortalecimento da reputação profissional.
+
+A solução AgendeJá visa transformar a maneira como os agendamentos são feitos, otimizando a eficiência tanto para os profissionais quanto para seus clientes, como também fornecendo um ambiente seguro e conveniente para transações e interações. Ao atender às necessidades específicas de diversas personas, a aplicação se posiciona como uma solução abrangente para a gestão de agendamentos em várias esferas profissionais.
+ 
 ### PROCESSO DE AGENDAMENTO
+
+Oportunidade de melhoria no processo de agendamento: Poderíamos agilizar o processo, diminuindo a quantidade de clicks e telas necessárias para consluir a tarefa.
 
 ![Processo 1](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/blob/main/docs/img/modelagem_do_processo_de_negocio.jpeg)
 
