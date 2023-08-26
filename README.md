@@ -15,7 +15,7 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 * Lucas Filipe dos Reis
 * Neemias Junio Anjos Lopes
 * Wellington Andrade Rolim
-* Dionisio
+* Dionísio Tadeu de Azevedo
 
 
 
