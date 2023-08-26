@@ -1,12 +1,26 @@
-# TÍTULO DO PROJETO
+# AgendeJá
 
 `Análise e Desenvolvimento de Sistemas`
 
 `Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`3° - Semestre`
+`3°/2023`
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O AgendeJá é uma ferramenta prática e intuitiva que permite aos usuários agendar compromissos, eventos e tarefas de forma eficiente. Com uma interface amigável, a aplicação foi projetada para atender às necessidades de agendamento de indivíduos, profissionais e empresas.
+
+Recursos Principais
+Agendamento Fácil: O usuário pode criar, editar e excluir eventos de forma rápida e fácil. Basta selecionar a data e hora desejadas e adicionar os detalhes do evento.
+
+Notificações: O aplicativo enviará lembretes e notificações para ajudar o usuário a lembrar dos compromissos agendados.
+
+Calendário Personalizado: Os eventos agendados são exibidos em um calendário intuitivo, facilitando a visualização dos horários disponíveis.
+
+Sincronização: O aplicativo sincroniza automaticamente os eventos em todos os dispositivos do usuário, permitindo acesso aos agendamentos a qualquer momento e lugar.
+
+Gerenciamento de Tarefas: Além de agendar eventos, o aplicativo oferece a opção de criar listas de tarefas, ajudando o usuário a manter o controle das atividades pendentes.
+
+Compatibilidade Multiplataforma: O aplicativo está disponível para dispositivos Android e iOS, garantindo que os usuários de ambas as plataformas possam aproveitar seus recursos.
+
 
 ## Integrantes
 
@@ -27,6 +41,12 @@ Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo de
 ## Instruções de utilização
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
+
+Não deixe de informar o link onde a aplicação estiver disponível para acesso por exemplo: https://forkfinder.herokuapp.com/src/index.html.
+
+Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
+
+O link e o usuário/senha descritos acima são apenas exemplos de como tais informações deverão ser apresentadas.
 
 # Documentação
 
