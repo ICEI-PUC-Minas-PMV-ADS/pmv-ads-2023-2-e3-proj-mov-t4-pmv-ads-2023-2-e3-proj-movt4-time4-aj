@@ -61,7 +61,7 @@ A solução proposta, o **AgendeJá**, visa resolver esses desafios ao introduzi
 
 6. **Pagamentos Antecipados:** O AgendeJá oferecerá a funcionalidade de receber pagamentos antecipados, algo que Carla, Lucas e Gabriel valorizam. Isso ajudará a minimizar as faltas de última hora e garantir a receita esperada.
 
-7. **Feedback e Avaliações:** Profissionais, como Lucas e Rafael, terão a oportunidade de receber feedback e avaliações dos clientes. Isso permitirá melhorias contínuas nos serviços e o fortalecimento da reputação profissional.
+7. **Feedback e Avaliações:** Profissionais, como Lucas e Rafael, terão a oportunidade de receber feedback e avaliações dos clientes diretamente na página da google play ou app store. Isso permitirá melhorias contínuas nos serviços e o fortalecimento da reputação profissional.
 
 A solução AgendeJá visa transformar a maneira como os agendamentos são feitos, otimizando a eficiência tanto para os profissionais quanto para seus clientes, como também fornecendo um ambiente seguro e conveniente para transações e interações. Ao atender às necessidades específicas de diversas personas, a aplicação se posiciona como uma solução abrangente para a gestão de agendamentos em várias esferas profissionais.
  
