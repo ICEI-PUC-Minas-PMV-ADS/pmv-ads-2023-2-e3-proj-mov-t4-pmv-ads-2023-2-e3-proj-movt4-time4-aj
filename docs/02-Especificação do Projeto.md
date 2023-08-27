@@ -146,16 +146,19 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 ## Diagrama de Casos de Uso
 
-O diagrama de casos de uso é o próximo passo após a elicitação de requisitos, que utiliza um modelo gráfico e uma tabela com as descrições sucintas dos casos de uso e dos atores. Ele contempla a fronteira do sistema e o detalhamento dos requisitos funcionais com a indicação dos atores, casos de uso e seus relacionamentos. 
+Definidos os requisitos funcionais, não funcionais e restrições foi elaborado o diagrama de casos de uso apresentado abaixo. A tabela que vem a seguir exibe, de maneira sucinta, uma descrição de cada casos de usos. 
 
-As referências abaixo irão auxiliá-lo na geração do artefato “Diagrama de Casos de Uso”.
-
-> **Links Úteis**:
-> - [Criando Casos de Uso](https://www.ibm.com/docs/pt-br/elm/6.0?topic=requirements-creating-use-cases)
-> - [Como Criar Diagrama de Caso de Uso: Tutorial Passo a Passo](https://gitmind.com/pt/fazer-diagrama-de-caso-uso.html/)
-> - [Lucidchart](https://www.lucidchart.com/)
-> - [Astah](https://astah.net/)
-> - [Diagrams](https://app.diagrams.net/)
+| CASO DE USO | ATOR | DESCRIÇÃO |
+|----------------------|----------------------------------|------------------------|
+|Realizar Cadastro | Usuário | O usuário interessado na contratação de serviços se cadastra no App. Deverão ser fornecidos nome, email, cell de contato e endereço do usuário, alem de definidos o login e senha de acesso.|
+| Fazer Login | Usuário	| Para acessar o App o usuário cadastrado realiza login a partir de login e senha. |
+| Selecionar Profissional	| Usuário |O usuário seleciona o profissional da sua preferência para realização dos serviços.|
+| Selecionar Serviço | Usuário |O usuário seleciona quais os serviços oferecidos pelo salão que deseja realizar.|
+| Realizar Agendamento | Usuário |O usuário seleciona a opção de horário da sua preferência dentre as opções apresentadas pelo App.|
+| Realizar Pagamento | Usuário |O usuário realiza o pagamento antecipado do serviço escolhido. |
+| Atualizar Profissional | Gerente |A gerente cadastra ou remove profissional que presta serviço no salão. |
+| Atualizar Serviço | Gerente |A gerente cadastral ou remove serviços atribuído a determinado profissional cadastrado.|
+| Gerenciar Agendamentos |Gerente |A gerente acompanha os agendamentos, desbloqueando os horários dos clientes que cancelaram o serviço ou bloqueando horário de profissional que não poderá atender determinado dia.|
 
 # Matriz de Rastreabilidade
 
