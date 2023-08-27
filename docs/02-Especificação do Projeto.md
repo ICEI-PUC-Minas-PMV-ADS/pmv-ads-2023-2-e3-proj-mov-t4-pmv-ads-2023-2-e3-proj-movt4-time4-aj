@@ -199,9 +199,7 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 Utilizando o modelo de gráfio de Gantt, conforme a figura a seguir definimos o planejamento de tempo para o projeto:
 
-<img src="/docs/img/02-gerenciamento-tempo-b.png" width=70% height=70%>
-
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/4e454efe-a2e4-4e7d-8ab3-a87fa64a4fbb)
+<img src="/docs/img/02-gerenciamento-tempo-b.png" width=100% height=100%>
 
 
 ## Gerenciamento de Equipe
