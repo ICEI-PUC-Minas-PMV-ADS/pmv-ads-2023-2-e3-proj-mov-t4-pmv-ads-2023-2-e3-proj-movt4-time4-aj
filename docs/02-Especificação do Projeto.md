@@ -148,6 +148,8 @@ Enumere as restrições à sua solução. Lembre-se de que as restrições geral
 
 Definidos os requisitos funcionais, não funcionais e restrições foi elaborado o diagrama de casos de uso apresentado abaixo. A tabela que vem a seguir exibe, de maneira sucinta, uma descrição de cada casos de usos. 
 
+<img src="/docs/img/02-caso-uso.png" width=50% height=50%>
+
 | CASO DE USO | ATOR | DESCRIÇÃO |
 |----------------------|----------------------------------|------------------------|
 |Realizar Cadastro | Usuário | O usuário interessado na contratação de serviços se cadastra no App. Deverão ser fornecidos nome, email, cell de contato e endereço do usuário, alem de definidos o login e senha de acesso.|
