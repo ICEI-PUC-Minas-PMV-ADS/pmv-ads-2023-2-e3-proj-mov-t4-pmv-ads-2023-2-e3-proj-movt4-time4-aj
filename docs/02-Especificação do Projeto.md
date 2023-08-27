@@ -199,6 +199,8 @@ O gráfico de Gantt ou diagrama de Gantt também é uma ferramenta visual utiliz
 
 Utilizando o modelo de gráfio de Gantt, conforme a figura a seguir definimos o planejamento de tempo para o projeto:
 
+<img src="/docs/img/02-gerenciamento-tempo-b.png" width=70% height=70%>
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/4e454efe-a2e4-4e7d-8ab3-a87fa64a4fbb)
 
 
@@ -208,7 +210,7 @@ O gerenciamento adequado de tarefas contribuirá para que o projeto alcance alto
 
 Conforme a figura a seguir definimos o gerenciamento de equipe para o projeto:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/be8159b6-f5cc-4704-ac72-1bbb264a8407)
+<img src="/docs/img/02-gerenciamento-equipe-b.png" width=100% height=100%>
 
 
 ## Gestão de Orçamento
@@ -217,7 +219,7 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 Conforme a figura a seguir definimos o orçamento necessário para produção do projeto:
 
-![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/b130495e-0dda-4546-93ba-6785b42c5d9c)
+<img src="/docs/img/02-gestao-orcamento-b.png" width=50% height=50%>
 
 
 
