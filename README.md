@@ -4,7 +4,7 @@
 
 `Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`3°/2023`
+`1°/2023`
 
 O AgendeJá é uma ferramenta prática e intuitiva que permite aos usuários agendar compromissos, eventos e tarefas de forma eficiente. Com uma interface amigável, a aplicação foi projetada para atender às necessidades de agendamento de indivíduos, profissionais e empresas.
 
@@ -32,8 +32,6 @@ Compatibilidade Multiplataforma: O aplicativo está disponível para dispositivo
 * Dionísio Tadeu de Azevedo
 
 
-
-
 ## Orientador
 
 * Mateus Curcino de Lima
@@ -42,7 +40,7 @@ Compatibilidade Multiplataforma: O aplicativo está disponível para dispositivo
 
 Assim que a primeira versão do sistema estiver disponível, deverá complementar com as instruções de utilização. Descreva como instalar eventuais dependências e como executar a aplicação.
 
-Não deixe de informar o link onde a aplicação estiver disponível para acesso por exemplo: https://forkfinder.herokuapp.com/src/index.html.
+Não deixe de informar o link onde a aplicação estiver disponível para acesso por exemplo: https://aplicativo.herokuapp.com/src/index.html.
 
 Se houver usuário de teste, o login e a senha também deverão ser informados aqui (por exemplo: usuário - admin / senha - admin).
 
