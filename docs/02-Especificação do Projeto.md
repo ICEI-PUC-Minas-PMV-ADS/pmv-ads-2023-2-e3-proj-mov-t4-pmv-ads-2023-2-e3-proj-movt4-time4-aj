@@ -109,7 +109,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | RNF-07 | O sistema deve ter uma interface amigável e atraente para os usuários, tornando a experiência de uso mais agradável. | ALTA |
 | RNF-08 | O sistema deve aderir aos padrões de acessibilidade da Web para garantir que pessoas com deficiências visuais possam usar leitores de tela e outras tecnologias assistivas | ALTA |
 | RNF-09 | O sistema deve ser compatível com diferentes navegadores web populares, como Chrome, Firefox, Safari e Edge, garantindo uma experiência consistente para os usuários. | MÉDIA |
-| RNF-010 |O tempo de carregamento inicial do sistema, após o usuário iniciar a aplicação, não deve exceder 3 segundos, garantindo uma experiência inicial rápida. | ALTA |
+| RNF-010 |O tempo de carregamento inicial do sistema, após o usuário iniciar a aplicação, não deve exceder 15 segundos, garantindo uma experiência inicial rápida. | ALTA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
