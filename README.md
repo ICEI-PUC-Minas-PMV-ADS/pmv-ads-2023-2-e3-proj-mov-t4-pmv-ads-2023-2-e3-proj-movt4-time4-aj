@@ -4,7 +4,7 @@
 
 `Desenvolvimento de uma Aplicação Móvel em um Ambiente de Negócio`
 
-`1°/2023`
+`2°/2023`
 
 O AgendeJá é uma ferramenta prática e intuitiva que permite aos usuários agendar compromissos, eventos e tarefas de forma eficiente. Com uma interface amigável, a aplicação foi projetada para atender às necessidades de agendamento de indivíduos, profissionais e empresas.
 
