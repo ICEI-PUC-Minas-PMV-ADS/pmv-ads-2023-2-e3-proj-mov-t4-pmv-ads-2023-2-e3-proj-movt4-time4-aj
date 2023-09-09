@@ -6,9 +6,10 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
+
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário faça o cadastro|  cadastro.html /cadastro.cs / cadastro.js | 
+|RF-002| Permitir que o usuário faça seu login|   index.html / style.css / |
+|RF-003|  Permitir que o usuário marque horarios|   horarios.shtml / horarios.cs / controllerhorarios.cs | 
 
-|RF-001| Permitir que o usuário faça o cadastro | cadastro.html /cadastro.cs / cadastro.js.cs | 
-|RF-002|Permitir que o usuário faça seu login |index.html|/ style.css /
-|RF-003| Permitir que o usuário marque horarios | horarios.shtml / horarios.cs / controllerhorarios.cs | 
