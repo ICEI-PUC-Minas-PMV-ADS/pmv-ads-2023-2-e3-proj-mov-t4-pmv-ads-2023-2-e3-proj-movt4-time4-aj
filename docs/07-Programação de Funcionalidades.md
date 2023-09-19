@@ -4,6 +4,12 @@
 
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 
+|ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
+|------|-----------------------------------------|----|
+|RF-001| Permitir que o usuário faça o cadastro|  cadastro.html /cadastro.cs / cadastro.js | 
+|RF-002| Permitir que o usuário faça seu login|   index.html / style.css / |
+|RF-003| Permitir que o usuário realize um agendamento |  horarios.shtml / horarios.cs / controllerhorarios.cs | 
+
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
 
 > **Links Úteis**:
