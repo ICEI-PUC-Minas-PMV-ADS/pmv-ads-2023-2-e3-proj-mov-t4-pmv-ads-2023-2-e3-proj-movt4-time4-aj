@@ -5,7 +5,7 @@
 Implementação do sistema descritas por meio dos requisitos funcionais e/ou não funcionais. Deve relacionar os requisitos atendidos os artefatos criados (código fonte) além das estruturas de dados utilizadas e as instruções para acesso e verificação da implementação que deve estar funcional no ambiente de hospedagem.
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário navegue pela home app.html/ app.js /app.css |
+|RF-001| Permitir que o usuário navegue pela home | app.html/ app.js /app.css |
 |RF-002| Permitir que o usuário faça o registro |  registro.html /registro.js /cadastro.css/ 
 |RF-003| Permitir que o usuário faça o cadastro|  cadastro.html /cadastro.css/ cadastro.js | 
 |RF-004| Permitir que o usuário faça seu login|   login.js / style.css / |
