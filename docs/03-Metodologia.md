@@ -13,7 +13,7 @@ Os artefatos do projeto são desenvolvidos a partir de várias plataformas e a r
 |--------------------|------------------------------------|----------------------------------------|
 |**Repositório de Código Fonte**|**GitHub**|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj|
 |**Projeto de Interface - Wireframe**|**Figma**|https://www.figma.com/file/bjpDBpBRockhCSrpPcnKFb/DESIGN?type=design&node-id=0-1&mode=design|
-|**Gerenciamento do Projeto**| **GitHub**|[ https://app.diagrams.net/](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/500/views/2)|
+|**Gerenciamento do Projeto**| **GitHub**|https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/500/views/2|
 
 ## Controle de Versão
 
