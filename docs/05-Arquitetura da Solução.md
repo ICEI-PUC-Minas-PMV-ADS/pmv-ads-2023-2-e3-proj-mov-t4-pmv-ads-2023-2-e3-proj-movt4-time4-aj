@@ -35,18 +35,22 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 ## Tecnologias Utilizadas
 
-|**Linguagens de programação utilizadas**|
-|----------------------------------------|
+Descrevemos na tabela abaixo, lista de tecnologias empregadas para implementação da aplicação.
+
+|**Linguagens de programação e biblitecas utilizadas**|
+|-----------------------------------------------------|
 |JAVA|
 |React/ React Native|
-
-|**Banco de dados**|
-|------------------|
-|Local Host|
-
+||
+|**IDE**|
+|Visual Studio Code|
+||
 |**Design**|
-|------------------|
 |Figma|
+||
+|**Ferramentas de comunicação**|
+|Discord, Whatsapp e Microsoft Teams|
+
 
 
 ## Hospedagem
@@ -55,11 +59,13 @@ Definimos que para esta etapa iremos utilizar a hospedagem em local host.
 
 ## Qualidade de Software
 
+Abaixo segue tabela com características e subcaracterísticas justificadas, definidas como base para nortear o desenvolvimento do projeto de software considerando-se alguns aspectos simples de qualidade.
+
 |**Características**|**Subcaracterísticas**|**Justificativas**|
 |-------------------|----------------------|------------------|
 | Funcionalidade | Adequação - Acurácia - Segurança de acesso | A aplicação possibilitará ao usuário que veja se haverá disponibilidade no horário desejado, sendo assim possibilitando a agenda do horário préviamente. A aplicação tambem contará com autenticação do usuário através de email cadastrado e senha.|
 | Usabilidade | Inteligibilidade - Apreesibilidade - Comportamento em relação ao tempo  | A aplicação será fácil de usar e intuitiva para todos os usuários, independentemente de sua experiência com tecnologia. Tambem definimos que a aplicação deve ter desempenho rápido e responsivo, garantindo uma experiência fluída para os usuários.|
 | Portabilidade | Adaptabilidade - Facilidade para ser instalado | Aplicação deverá ser compativel com diferente dispositivos movéis, reolução de tela e que haja facilidade na instalação assim conteplando o maior número de usuários. |
 | Manutenabilidade | Modificabilidade - Estabilidade - Testabilidade | Aplicação deverá ser testada frequentemente em busca de possiveis falhas e erros, que deverão ser corrigidos via atualizações para manter a estabilidade da aplicação. |
-|
+
 
