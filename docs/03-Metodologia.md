@@ -7,8 +7,13 @@ A metodologia contempla as definições de ferramental utilizado pela equipe tan
 
 ## Relação de Ambientes de Trabalho
 
-Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
-Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
+Os artefatos do projeto são desenvolvidos a partir de várias plataformas e a relação dos ambientes com seu respectivo propósito são retratados na tabela abaixo
+
+|**FUNÇÃO**| **PLATAFORMA** |**LINK DE ACESSO**|
+|--------------------|------------------------------------|----------------------------------------|
+|**Repositório de Código Fonte**|**GitHub**|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj|
+|**Projeto de Interface - Wireframe**|**Figma**|https://www.figma.com/file/bjpDBpBRockhCSrpPcnKFb/DESIGN?type=design&node-id=0-1&mode=design|
+|**Gerenciamento do Projeto**| **GitHub**|[ https://app.diagrams.net/](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/500/views/2)|
 
 ## Controle de Versão
 
@@ -41,7 +46,7 @@ A equipe está organizada da seguinte maneira:
 
 Scrum Master: Mateus Curcino de Lima
 
-Product Owner: ??
+Product Owner: Lucas Filipe dos Reis
 
 Equipe de Desenvolvimento:
 
@@ -92,7 +97,7 @@ As ferramentas empregadas no projeto estão descritas na tabela abaixo:
 |**FUNÇÃO**| **PLATAFORMA** |**LINK DE ACESSO**|
 |--------------------|------------------------------------|----------------------------------------|
 |**Repositório de Código Fonte**|**GitHub**|https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj|
-|**Projeto de Interface - Wireframe**|**Figma**|https://www.figma.com/file/bjpDBpBRockhCSrpPcnKFb/DESIGN?type=design&node-id=0-1&mode=design|
+|**Projeto de Interface - Wireframe**|**Figma**|https://www.figma.com/|
 |**Editor de Código**|**VS Code**|https://code.visualstudio.com/|
 |**Ferramentas de Comunição**|**Teams, Discord e WhatsApp**|https://teams.microsoft.com/ , https://web.whatsapp.com/ , https://discord.com/|
 |**Diagramas**| **diagrams.net**| https://app.diagrams.net/|
