@@ -37,12 +37,21 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 |**Linguagens de programação utilizadas**|
 |----------------------------------------|
-|JAVA|
-|React/ React Native|
+|Javascript|
+
+|**Frameworks utilizados**|
+|----------------------------------------|
+|React|
+|React-native|
+|Node.js|
 
 |**Banco de dados**|
 |------------------|
-|Local Host|
+|MongoDB|
+
+|**Hospedagem**|
+|------------------|
+|Localhost|
 
 |**Design**|
 |------------------|
