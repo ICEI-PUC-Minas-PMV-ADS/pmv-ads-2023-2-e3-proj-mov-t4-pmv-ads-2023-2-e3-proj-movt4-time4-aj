@@ -10,6 +10,7 @@ Definição de como o software é estruturado em termos dos componentes que faze
 
 O diagrama de classes ilustra graficamente como será a estrutura do software, e como cada uma das classes da sua estrutura estarão interligadas. Essas classes servem de modelo para materializar os objetos que executarão na memória.
 
+
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/111004815/4a84aa06-3b7f-45d6-8b3d-5ec809dc1c80)
 
 
@@ -21,7 +22,6 @@ O diagrama de classes ilustra graficamente como será a estrutura do software, e
 O Esquema Relacional corresponde à representação dos dados em tabelas juntamente com as restrições de integridade e chave primária.
  
 <img src="/docs/img/05-modelo-relacional.png" width=80% height=80%>
-
 
 ## Modelo Físico
 
