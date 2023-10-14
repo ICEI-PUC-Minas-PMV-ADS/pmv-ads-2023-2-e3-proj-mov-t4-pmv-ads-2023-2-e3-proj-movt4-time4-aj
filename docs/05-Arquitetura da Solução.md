@@ -39,9 +39,17 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 |React-native|
 |Node.js|
 
+|**API's**|
+|------------------|
+|Pagarme|
+
 |**Banco de dados**|
 |------------------|
 |MongoDB|
+
+|**Bucket**|
+|------------------|
+|Amazon S3 - V3|
 
 |**Hospedagem**|
 |------------------|
@@ -50,6 +58,7 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 |**Design**|
 |------------------|
 |Figma|
+
 
 
 ## Hospedagem
