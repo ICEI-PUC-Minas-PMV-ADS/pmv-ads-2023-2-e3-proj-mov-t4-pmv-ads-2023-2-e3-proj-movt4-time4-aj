@@ -50,11 +50,11 @@ Product Owner: Lucas Filipe dos Reis
 
 Equipe de Desenvolvimento:
 
-Jansem Wallemberg Torquetti Maia
-Lucas Filipe dos Reis
-Natan Candido Fonseca
-Wellington Andrade Rolim
-Neemias Junio Anjos Lopes
+Jansem Wallemberg Torquetti Maia,
+Lucas Filipe dos Reis,
+Natan Candido Fonseca,
+Wellington Andrade Rolim,
+Neemias Junio Anjos Lopes,
 Dionisio Tadeu de Azevedo
 
 Equipe de Design:
