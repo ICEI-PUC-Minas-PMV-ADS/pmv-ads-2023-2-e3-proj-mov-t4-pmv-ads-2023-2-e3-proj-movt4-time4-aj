@@ -290,23 +290,23 @@ export const styles = StyleSheet.create({
       borderWidth: 1, 
       marginBottom: 10,
       alignItems: 'center',
-      textAlign: 'center'
+      textAlign: 'center',
+      fontWeight: 'bold',
   },
   button: {
-      backgroundColor: 'green', 
+    backgroundColor: '#0AA447', 
       color: 'white', 
       marginBottom: 10,
       padding: 12,
       alignItems: 'center',
-      textAlign: 'center'
+      textAlign: 'center',
+      borderRadius: 20,
+      fontWeight: 'bold',
+
   },
-  dateButton: {
-    padding: 12,
-    borderWidth: 1,
-    marginBottom: 10,
-    alignItems: 'center',
-    textAlign: 'center',
-    backgroundColor: '#f0f0f0'  // ou outra cor de fundo de sua escolha
+  text: {
+    color: 'white',
+    fontWeight: 'bold',
   }
 });
 

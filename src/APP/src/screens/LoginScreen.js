@@ -1,9 +1,8 @@
 import React, { useState } from 'react';
-import { View, TextInput, Button, Alert, TouchableOpacity, Text } from 'react-native';
+import { View, Image, TextInput, Alert, TouchableOpacity, Text } from 'react-native';
 import api from '../services/api';
 import AsyncStorage from '@react-native-async-storage/async-storage';
 import { StyleSheet } from 'react-native';
-// import AgendamentoScreen from './src/screens/AgendamentoScreen';
 
 
 function LoginScreen({ navigation }) {
@@ -64,6 +63,9 @@ function LoginScreen({ navigation }) {
   
   return (
     <View style={styles.container}>
+
+      <Image style={styles.image} source={require('../../assets/logo-agendeja.png')} />
+
         <TextInput
             placeholder="E-mail"
             value={email.toLowerCase()}
@@ -81,13 +83,13 @@ function LoginScreen({ navigation }) {
             onPress={handleLogin} 
             style={styles.button}
         >
-            <Text style={{ color: 'white' }}>Entrar</Text>
+            <Text style={styles.text}>Entrar</Text>
         </TouchableOpacity>
         <TouchableOpacity 
             onPress={() => navigation.navigate('Cadastrar')}
             style={styles.button}
         >
-            <Text style={{ color: 'white' }}>Criar Conta</Text>
+            <Text style={styles.text}>Criar Conta</Text>
         </TouchableOpacity>
     </View>
 );
@@ -98,23 +100,39 @@ export const styles = StyleSheet.create({
     container: {
         flex: 1, 
         justifyContent: 'center', 
-        padding: 16
+        padding: 16,
+        alignItems: 'center',
     },
     input: {
         padding: 12, 
         borderWidth: 1, 
         marginBottom: 10,
         alignItems: 'center',
-        textAlign: 'center'
+        textAlign: 'center',
+        fontWeight: 'bold',
+        width: '100%',
     },
     button: {
-        backgroundColor: 'green', 
-        color: 'white', 
+        backgroundColor: '#0AA447', 
+        color: 'white',
+        fontWeight: 'bold', 
         marginBottom: 10,
         padding: 12,
         alignItems: 'center',
-        textAlign: 'center'
+        textAlign: 'center',
+        borderRadius: 20,
+        width: '100%',
+
+    },
+    text: {
+      color: 'white',
+      fontWeight: 'bold',
+    },
+    image:{
+      alignItems: 'center',
+      marginBottom: 40,
     }
+
 });
 
 export default LoginScreen;
