@@ -1,8 +1,6 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
-
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
+![Apresentação](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/114194318/640f3696-3d25-4a96-bd96-f9fc07127d3a)
 
 ## Título do Projeto
 
