@@ -6,10 +6,9 @@ Implementação do sistema descritas por meio dos requisitos funcionais e/ou nã
 |ID    | Descrição do Requisito  | Artefato(s) produzido(s) |
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário navegue pela home |index.html/ app.js /app.css |
-|RF-002| Permitir que o usuário faça o registro |  registro.html /registro.js /cadastro.css/ 
-|RF-003| Permitir que o usuário faça o cadastro|  cadastro.html /cadastro.css/ cadastro.js | 
+|RF-002| Permitir que o usuário faça o cadastro|  cadastro.html /cadastro.css/ cadastro.js | 
 |RF-004| Permitir que o usuário faça seu login|   login.js / style.css / |
-|RF-005|  Permitir que o usuário realize um agendamento |  agendamento.js / horarios.css | 
+|RF-005|  Permitir que o usuário realize um agendamento |  agendamento.js / agedamento.css | 
 
 
 Para cada requisito funcional, pode ser entregue um artefato desse tipo
