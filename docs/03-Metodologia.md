@@ -101,4 +101,5 @@ As ferramentas empregadas no projeto estão descritas na tabela abaixo:
 |**Editor de Código**|**VS Code**|https://code.visualstudio.com/|
 |**Ferramentas de Comunição**|**Teams, Discord e WhatsApp**|https://teams.microsoft.com/ , https://web.whatsapp.com/ , https://discord.com/|
 |**Diagramas**| **diagrams.net**| https://app.diagrams.net/|
+|**Emulador**| **Android studio.net**| https://developer.android.com/studio?hl=pt-br|
 
