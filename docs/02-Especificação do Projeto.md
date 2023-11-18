@@ -89,11 +89,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 | --- | --- | --- |
 | RF-01 | O aplicativo deve permitir o cadastro de uma página personalizada para um serviço. | ALTA |
 | RF-02 | O aplicativo deve permitir o agendamento de horário na página do serviço. | ALTA |
-| RF-03 | O aplicativo deve permitir que os clientes cadastre seu cartao de pagamento . | ALTA |
-| RF-04 | O aplicativo deve enviar notificações sobre seus agendamentos. | BAIXA |
-| RF-05 | O aplicativo deve permitir o acompanhamento das reservas em tempo real. | ALTA |
-| RF-06 | O aplicativo deve exibir um dashboard. | ALTA |
-| RF-07 | O aplicativo deve emitir relatórios. | ALTA |
+| RF-03 | O aplicativo deve enviar notificações sobre seus agendamentos. | BAIXA |
+| RF-04 | O aplicativo deve permitir o acompanhamento das reservas em tempo real. | ALTA |
+| RF-05 | O aplicativo deve exibir um dashboard. | ALTA |
+| RF-06 | O aplicativo deve emitir relatórios. | ALTA |
 ### Requisitos não Funcionais
 
 | ID | Descrição do Requisito | Prioridade |
