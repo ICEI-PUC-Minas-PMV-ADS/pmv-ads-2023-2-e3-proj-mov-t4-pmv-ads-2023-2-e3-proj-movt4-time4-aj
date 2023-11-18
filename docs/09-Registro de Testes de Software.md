@@ -33,4 +33,35 @@ Casos de Testes
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/0ebfbc33-dd83-4c84-a67a-8197bf66ea8b)
 
 
+# CT-03 & 4 – Notificação de agendamentos / Acompanhamento das reservas em tempo real
+ - Realização de agendamentos.
+  
+  O Teste realizado com sucesso, o usuário conseguiu realizar os agendamentos.
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/79a1df8e-ac80-49d0-9eff-fd9a6ab93ff7)
+  
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/7b2f0046-e6c1-4969-8091-0b234a637a96)
+
+- Acompanhamento de agendamentos.
+  
+  O Teste realizado com sucesso, o usuário conseguiu acompanhar os agendamentos.
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/c4a65d55-b1dc-4c72-b64a-0ed9457fff53)
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/b18c0803-2d04-47e2-a331-b7bab6555b05)
+
+# CT-05 – Dashboard
+ -  Verificar se a aplicação possui um dashboard interativo com informações importantes e que seja de facil vizualiação para o usuário.
+  
+  O Teste realizado com sucesso, o usuário conseguiu manejar com clareza e facilidae a página principal do APP.
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/9e9de2a5-4bb1-4b4a-83d3-253de88b6362)
+  
+  ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/74a4693e-6057-475b-a3dd-a8314cf6ab7e)
+
+
+  
+
+
+
 
