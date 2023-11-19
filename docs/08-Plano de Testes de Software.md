@@ -26,8 +26,21 @@ Por exemplo:
 |  	|  	|
 | **Caso de Teste** 	| **CT-04 – Acompanhamento das reservas em tempo real** 	|
 | Objetivo do Teste 	| Verificar o andamento do serviço contratado em tempo real. |
+|Critério de Êxito |  Acompanhamento das reservas realizadas. |
 |  	|  	|
-
 | **Caso de Teste** 	| **CT-05 - Dashboard** 	|
 | Objetivo do Teste 	| Verificar se a aplicação possui um dashboard interativo com informações importantes e que seja de facil vizualiação para o usuário.|
+|Critério de Êxito |  Facilidade de interação com a aplicação pelo usuário. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-06 - Cadastro de colaborador** 	|
+| Objetivo do Teste 	| Verificar o cadastro de novos colaboradores.|
+|Critério de Êxito |  Cadastro de novos colaboradores feito com sucesso. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-07 - Cadastro de horários de atendimento** 	|
+| Objetivo do Teste 	| Verificar o cadastro de horários de atendimento do colaborador.|
+|Critério de Êxito |  Cadastro e atualização de horários realizado com sucesso. |
+|  	|  	|
+| **Caso de Teste** 	| **CT-08 - Cadastro de serviços** 	|
+| Objetivo do Teste 	| Verificar o cadastro de serviços do colaborador.|
+|Critério de Êxito |  Cadastro e atualização de serviços realizado com sucesso. |
 |  	|  	|
