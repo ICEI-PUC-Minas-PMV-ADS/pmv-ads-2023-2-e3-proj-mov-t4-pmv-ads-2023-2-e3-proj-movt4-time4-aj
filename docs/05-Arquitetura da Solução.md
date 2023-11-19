@@ -31,13 +31,14 @@ Entregar um arquivo banco.sql contendo os scripts de criação das tabelas do ba
 
 |**Linguagens de programação utilizadas**|
 |----------------------------------------|
-|Javascript|
+|Javascript/JSX|
 
 |**Frameworks utilizados**|
 |----------------------------------------|
 |React|
 |React-native|
 |Node.js|
+|Redux|
 
 |**API's**|
 |------------------|
