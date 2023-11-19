@@ -58,7 +58,45 @@ Casos de Testes
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/9e9de2a5-4bb1-4b4a-83d3-253de88b6362)
   
   ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/74a4693e-6057-475b-a3dd-a8314cf6ab7e)
+  
+# CT-06 - Cadastro de colaborador
+ -  Verificar o cadastro de novos colaboradores.
 
+O Teste realizado com sucesso, o usuário conseguiu cadastrar um novo colaborador.
+![Tela de colaboradores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/0d5d9d1d-96bb-4c2a-bc22-c7941094fa44)
+
+![Criando novo colaborador](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/31f592ef-3da3-4040-875e-24885269abb8)
+
+-  Atualização de dados de colaboradores.
+  
+  O Teste realizado com sucesso, o usuário conseguiu atualizar os dados de colaboradores.
+  ![Tela de colaboradores](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/f72a2924-754d-4091-a628-f023ff520f3c)
+
+  ![Atualizando colaborador existente](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/5f92b8ae-994b-4949-8e7c-5df6c0babb7a)
+
+# CT-07 - Cadastro de horários de atendimento
+ -  Verificar o cadastro de horários de atendimento do colaborador.
+
+O Teste realizado com sucesso, o usuário conseguiu realizar o cadastro de horários de atendimentos.
+![Tela de horários de atendimento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/dda58e43-b6b5-4348-a9e6-619dd5b8a36b)
+
+![Atualizando ou criando novo horário de atendimento](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/8c07e407-24b9-4c61-9b91-a974b73b0ea7)
+
+# CT-08 - Cadastro de serviços
+ -  Verificar o cadastro de novos serviços.
+
+O Teste realizado com sucesso, o usuário conseguiu cadastrar um novo serviço.
+![Tela de produtos ou serviços](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/116581b3-79c7-4970-a817-e3b0f13c66c7)
+
+![criando um novo serviço](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/4ff254d4-0eef-4d0c-8aa7-5e72a6540770)
+
+-  Atualização de serviços.
+  
+  O Teste realizado com sucesso, o usuário conseguiu atualizar os serviços criados.
+
+  ![Tela de produtos ou serviços](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/fd03ec8e-ce99-4493-aabb-8e11ba98ca63)
+
+ ![Atualizando serviços existentes](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/assets/90806252/f877525e-1159-43a0-8645-4199e9dc2501)
 
   
 
