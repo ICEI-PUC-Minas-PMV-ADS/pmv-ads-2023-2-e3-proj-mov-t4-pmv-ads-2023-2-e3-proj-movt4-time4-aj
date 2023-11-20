@@ -22,9 +22,6 @@ O diagrama de fluxo pode ser desenvolvido com “boxes” que possuem internamen
 > **Links Úteis**:
 > - [Fluxograma online: seis sites para fazer gráfico sem instalar nada | Produtividade | TechTudo](https://www.techtudo.com.br/listas/2019/03/fluxograma-online-seis-sites-para-fazer-grafico-sem-instalar-nada.ghtml)
 
-## Wireframes
 
-![Exemplo de Wireframe mobile](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/blob/main/docs/interface/projeto-interface-mob.png?raw=true)
-![Exemplo de Wireframe desktop](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2023-2-e3-proj-mov-t4-pmv-ads-2023-2-e3-proj-movt4-time4-aj/blob/main/docs/interface/projeto-interface-desk.png?raw=true)
 
 
